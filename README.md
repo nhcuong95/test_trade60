@@ -1,3 +1,4 @@
+Integrate with Slack
 DOCS: http://facebook.github.io/react-native/docs/getting-started.html
 1. Install node, react, react native, xcode/android toolkits
 2. Use this repo as base repo, clone, code and push here
@@ -20,3 +21,4 @@ DOCS: http://facebook.github.io/react-native/docs/getting-started.html
     - View (c) doesn't have to persist messages to disk, just need to display new message from user
 5. Styling views:
     Try to style those views nicely with inline styling (css like for react native)
+
